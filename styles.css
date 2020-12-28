@@ -1,0 +1,86 @@
+/******************** Tag Selection ********************/
+body {
+  background-color: #19a2ae;
+  background-image: url(images/bg-pattern-top.svg), url(images/bg-pattern-bottom.svg);
+  background-position: top -500px right 800px, bottom -650px left 750px;
+  background-repeat: no-repeat;
+  font-family: 'Kumbh Sans', sans-serif;
+  position: relative;
+}
+
+/******************** Class Selection ********************/
+.main-container {
+  background-color: white;
+  border-radius: 20px;
+  color: #2d3248;
+  height: 370px;
+  margin: 200px auto 0;
+  position: relative;
+  text-align: center;
+  width: 350px;
+}
+
+.card-pattern {
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  width: 100%;
+}
+
+.profile-img {
+  border-color: white;
+  border-radius: 50%;
+  border-style: solid;
+  border-width: thick;
+  position: relative;
+  margin-top: -60px;
+}
+
+.name {
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.age {
+  color: #969696;
+  font-size: 1.125rem;
+  font-weight: 400;
+}
+
+.addres {
+  color: #6a6f81;
+  font-size: 1rem;
+  font-weight: 400;
+}
+
+.followes {
+  display: inline-block;
+  margin: 10px auto auto;
+  width: 30%;
+}
+
+.likes {
+  display: inline-block;
+  margin: 10px auto auto;
+  width: 30%;
+}
+
+.photos {
+  display: inline-block;
+  margin: 10px auto auto;
+  width: 30%;
+}
+
+.bold {
+  font-size: 1.125rem;
+  font-weight: 700;
+}
+
+.noBold {
+  font-size: 0.6875rem;
+  font-weight: 400;
+}
+
+.attribution {
+  margin: 50px auto;
+  width: 40%;
+}
