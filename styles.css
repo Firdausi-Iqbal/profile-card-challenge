@@ -7,6 +7,11 @@ body {
   font-family: 'Kumbh Sans', sans-serif;
   position: relative;
 }
+hr{
+      height:1px;
+      border:none;
+      background-color: #b3b3b3;
+}
 
 /******************** Class Selection ********************/
 .main-container {
